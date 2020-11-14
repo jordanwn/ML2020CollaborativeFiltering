@@ -13,6 +13,7 @@ cmake --build . --config Release
 
 echo installing requirements
 
+cd ../../
 pip install -r requirements.txt
 
 echo installing xgboost
