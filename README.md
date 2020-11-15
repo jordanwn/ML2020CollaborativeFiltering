@@ -1,8 +1,10 @@
 # Project: Recommendation System for Movie Ratings
-
+### Jordan Nichols
 Generates a graph visualization of feature importance.
 
 [Project reference](https://medium.com/towards-artificial-intelligence/recommendation-system-in-depth-tutorial-with-python-for-netflix-using-collaborative-filtering-533ff8a0e444)
+
+Had no idea where to start, so I decided to follow a reference to understand.
 
 ### Requirements
 
